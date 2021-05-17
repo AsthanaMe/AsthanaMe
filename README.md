@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data mining 
 - 💞️ I’m looking to collaborate on projects reagrding data and python
 - 📫 How to reach me message on my email
+- Apache Spark is fun to work on
 
 <!---
 AsthanaMe/AsthanaMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
